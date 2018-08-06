@@ -44,4 +44,4 @@ To run the lot:
 
 `docker-compose up`
 
-The web app will run on :80, nifi on :8080 elastic on :9200 and neo4j on 7474 or 7687 (I don't know which!)
+The web app will run on :80, nifi on :8080/nifi, elastic on :9200, and neo4j on :7474
